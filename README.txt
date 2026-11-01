@@ -13,8 +13,5 @@ Cara menjalankan:
 3. Klik navigasi untuk menguji perpindahan halaman.
 
 Catatan:
-- Project sengaja menggunakan HTML murni tanpa CSS sesuai ketentuan praktikum.
 - Gambar menggunakan URL Unsplash sehingga memerlukan koneksi internet.
-- Formulir masih berupa demonstrasi HTML statis; belum mengirim data ke server.
-- Sebelum pengumpulan, tambahkan screenshot hasil browser dan kode ke laporan.
-- Beri watermark NIM_NAMA pada setiap screenshot: 202532016_BintangAuraMahadewi.
+- Formulir masih berupa demonstrasi HTML statis; belum mengirim data ke server
